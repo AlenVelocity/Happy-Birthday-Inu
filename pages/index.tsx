@@ -11,7 +11,11 @@ const Home: NextPage<{ cards: Array<{ author: string, text: string }>}> = (props
             <Head>
                 <title>Happy Birthday Inu! 🎉</title>
                 <link rel="icon" href="/favicon.ico" />
-                <meta property='og:image' content='https://images2.alphacoders.com/106/1067611.jpg' />
+                <meta property='og:image' content='/banner.png' />
+                <meta property='og:title' content='Happy Birthday Inu! 🎉' />
+                <meta property='og:image:type' content='image/png' />
+                <meta property='og:image:width' content='1200' />
+
             </Head>
 
             <Header></Header>
