@@ -1,0 +1,3 @@
+Happy Birthday inu 
+Stay blessed nd be happy
+We didn't talk alot but i think ur a nice guy, i hope we get along much this year.....
