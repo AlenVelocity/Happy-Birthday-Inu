@@ -16,7 +16,7 @@ const Home: NextPage<{ cards: Array<{ author: string; text: string }> }> = (prop
                 <meta property="og:type" content="website" />
                 <meta property="og:title" content="Happy Birthday Inu! 🎉" />
                 <meta property="og:description" content="" />
-                <meta property="og:image" content="https://happy-birthday-inu.vercel.app/banner.png" />
+                <meta property="og:image" itemProp='image' content="https://happy-birthday-inu.vercel.app/banner.png" />
 
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta property="twitter:domain" content="happy-birthday-inu.vercel.app" />
